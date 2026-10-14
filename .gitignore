@@ -1,0 +1,16 @@
+﻿# Git metadata from downloaded repositories
+**/.git/
+**/.git
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Large generated files and datasets should be reviewed separately
